@@ -55,7 +55,7 @@ from low to high levels in the dependency graph)
 
 * [`linera-sdk`](https://linera-io.github.io/linera-protocol/linera_sdk/index.html) The
   library to develop Linera applications written in Rust for the Wasm virtual machine. The
-  corresponding procedural macros are implemented in `linera-sdk-derive`.
+  corresponding procedural macros are implemented in `linera-sdk-derive`. 
 
 * [`examples`](./examples) Examples of Linera applications written in Rust.
 
